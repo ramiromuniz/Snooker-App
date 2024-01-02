@@ -1,8 +1,8 @@
 # Snooker-App
 ## Overview
 Welcome to our Snooker Simulation App, an interactive digital recreation of the classic game of snooker. Aimed to provide a near-authentic snooker experience, this application leverages intuitive mouse-based cue controls and realistic physics to immerse players in the strategic depth of snooker.
-![image](https://github.com/ramiromuniz/Snooker-App/assets/73760479/3caac1f8-fffd-4f2d-8da8-976c9ceec124)
 
+![image](https://github.com/ramiromuniz/Snooker-App/assets/73760479/3caac1f8-fffd-4f2d-8da8-976c9ceec124)
 
 ## Features
 *Realistic Snooker Table: A digitally rendered snooker table that adheres to official dimensions and aesthetics.
