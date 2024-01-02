@@ -4,10 +4,15 @@ Welcome to our Snooker Simulation App, an interactive digital recreation of the 
 
 ## Features
 *Realistic Snooker Table: A digitally rendered snooker table that adheres to official dimensions and aesthetics.
+
 *Physics-Driven Gameplay: Utilizing Matter.js for ball dynamics, ensuring lifelike ball movement and collisions.
+
 *Intuitive Cue Control: Mouse-based cue action allowing players to click, drag, and release for shots, mimicking the real-life cueing action.
+
 *Collision Feedback: Immediate on-screen prompts for cue ball contacts, aiding players in strategizing subsequent plays.
+
 *Multiple Game Modes: Includes standard play and an 'Extreme Mode' for heightened difficulty, featuring smaller balls and dynamic obstacles.
+
 *Responsive Design: A modular codebase that provides a seamless and scalable gaming experience.
 
 ## How to Play
