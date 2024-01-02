@@ -17,22 +17,29 @@ Welcome to our Snooker Simulation App, an interactive digital recreation of the 
 
 ## How to Play
 *Select a game mode using the keyboard.
+
 *Place the cue ball by clicking within the "D" semi-circle.
+
 *Aim by clicking and dragging the mouse away from the cue ball; the direction and length of the drag determine the aim and power of the shot.
+
 *Release the mouse button to take the shot.
 
 ## Extreme Mode
 *Activate by pressing '4'.
+
 *Navigate additional challenges such as miniature balls and randomly appearing holes on the table.
+
 *Aim to avoid these malignant pockets, or risk losing the ball and potential points.
 
 ## Installation
 *Clone the repository to your local machine:
+
 *Open index.html in your browser to start playing.
 
 ## Contributing
 Feel free to fork this repository, contribute to the code, or suggest improvements.
 
 ## Acknowledgments
-Matter.js for the physics engine.
-P5.js for the canvas rendering.
+*Matter.js for the physics engine.
+
+*P5.js for the canvas rendering.
